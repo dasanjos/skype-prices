@@ -17,6 +17,7 @@ This template project consists of:
 <li>A sample model JPA entity called <code>MyEntity</code></li>
 <li>A few JSP pages that renders the views with <code>template.tag</code> template file and <code>layout.css</code>
 </ul>
+${temp}
 <p><a href="myentity/new">Create a <code>MyEntity</code> Record</a></p>
 </jsp:body>
 </tags:template>
