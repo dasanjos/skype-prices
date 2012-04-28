@@ -33,8 +33,8 @@ To download and compile the source code you need to install:
 - Maven v2.0+
 - Git v1.7+
  
-Step 2 - Get source code
-------------------------
+Step 2 - Get the source code
+----------------------------
 Download the project source code from GitHub repository (https://github.com/dasanjos/skype-prices) 
 
     $ git clone git://github.com/dasanjos/skype-prices
