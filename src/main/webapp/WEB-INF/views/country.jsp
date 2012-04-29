@@ -5,18 +5,15 @@
 <%@ page session="false" %>
 
 <tags:template>
+<jsp:attribute name="breadcrumb"><a href="${pageContext.request.contextPath}">Home</a> / ${country.name}</jsp:attribute>
+<jsp:body>
 
-	<jsp:attribute name="breadcrumb"><a href="..">Home</a> / <a href="./new">MyEntity</a> / ${entity.name}</jsp:attribute>
-	<jsp:body>
-		<form:form commandName="entity">
-		<table>
-			<tr>
-				<td>Name:</td><td><form:input size="40" path="name"/></td>
-			</tr>
-		</table>
-		<p/>
-		<input type="submit" value="Save"/>
-		</form:form>
-	</jsp:body>
-	
+<%@include file="countrySelect.jsp" %>
+
+<table border="1">
+	<%@include file="countryHeader.jsp" %>
+	<%@include file="countryRow.jsp" %>
+</table>
+
+</jsp:body>	
 </tags:template>

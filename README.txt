@@ -60,7 +60,12 @@ http://assets.skype.com/pricelist/1.0/xml/en/skypeout/eur
 http://blog.springsource.com/2011/01/04/green-beans-getting-started-with-spring-mvc/
 http://blog.springsource.org/2009/03/27/rest-in-spring-3-resttemplate/
 
-Hours worked - Saturday 17:00 - 20:00 / Monday 
+Hours worked 8h 
+* 28.04.2012 17:00 - 20:00 
+* 29.04.2012 10:00 - 12:00
+* 30.04.2012 
 
-TODO Use XMl or JSON to get data 
+TODO
+---- 
+Use XMl and JSON to get data 
 http://www.informit.com/guides/content.aspx?g=java&seqNum=549
