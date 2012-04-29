@@ -2,9 +2,9 @@
 <%@ taglib prefix="tags" tagdir="/WEB-INF/tags"%>
 <%@ page session="false"%>
 <tags:template>
-	<jsp:attribute name="breadcrumb">Home</jsp:attribute>
-	<jsp:body>
-<h1>Skype - calling rates</h1>
+<jsp:attribute name="breadcrumb">Home</jsp:attribute>
+<jsp:body>
+<h2>Enter a country to check out our great low rates</h2>
 
 <%@include file="countrySelect.jsp" %>
 

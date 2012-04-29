@@ -10,11 +10,11 @@
 	<link rel="icon" href="${pageContext.request.contextPath}/favicon.ico" type="image/vnd.microsoft.icon"/>
 </head>
 <body>
-	<div id="header"><div id="app_title">skype-prices</div></div>
+	<div id="header"><div id="title">skype-prices</div></div>
 	<div id="navigation">${breadcrumb}</div>
 	<div id="content">
 		<jsp:doBody/>
 	</div>
-	<div id="footer"></div>
+	<div id="footer"><span class="footerHeading">Skype.com</span></div>
 </body>
 </html>
