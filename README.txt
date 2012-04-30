@@ -63,7 +63,7 @@ http://blog.springsource.org/2009/03/27/rest-in-spring-3-resttemplate/
 Hours worked 8h 
 * 28.04.2012 17:00 - 20:00 
 * 29.04.2012 10:00 - 12:00
-* 30.04.2012 
+* 30.04.2012 13:00 - 14:00 
 
 TODO
 ---- 

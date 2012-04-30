@@ -40,32 +40,74 @@ body {
 }
 
 #suggesticator {
-    background-color: #CCEFFC;
-    border-radius: 4px 4px 4px 4px;
-    height: 100%;
-    margin-bottom: 19px;
-    margin-top: 10px;
-    overflow: hidden;
-    padding: 10px;
-    position: relative;
+	background-color: #CCEFFC;
+	border-radius: 4px 4px 4px 4px;
+	height: 100%;
+	margin-bottom: 19px;
+	margin-top: 10px;
+	overflow: hidden;
+	padding: 10px;
+	position: relative;
+}
+
+#currency {
+	float: right;
+}
+
+/* ----- TABLE ----- */
+#tableWrapper {
+	border: 1px solid #CCEFFC;
+	border-radius: 4px 4px 4px 4px;
+	padding: 20px;
+}
+
+#tableWrapper table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	line-height: 30px;
+	width: 100%;
+}
+
+#tableWrapper table th {
+	background-color: #CCEFFC;
+	border-top: 1px solid #A3E0F9;
+	color: #444444;
+	font-weight: bold;
+}
+
+#tableWrapper table tr.even td {
+	background-color: #FFFFFF;
+}
+
+#tableWrapper table tr.odd td {
+	background-color: #F0FAFE;
+	border-bottom: 1px solid #E0F5FD;
+	border-top: 1px solid #E0F5FD;
+}
+
+#ratesList table.ratesTable tr.even td {
+	background-color: #F0FAFE;
+	border-bottom: 1px solid #E0F5FD;
+	border-top: 1px solid #E0F5FD;
+	padding-left: 10px;
 }
 
 /* ----- FOOTER ----- */
 #footer {
 	margin: 0 auto;
-    position: relative;
-    background-color: #00AFF0;
-    clear: both;
-    display: block;
-    height: 47px;
+	position: relative;
+	background-color: #00AFF0;
+	clear: both;
+	display: block;
+	height: 47px;
 }
 
 #footer span.footerHeading {
-    color: #FFFFFF;
-    display: block;
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 47px;
-    margin-left: 10px;
-    width: 250px;
+	color: #FFFFFF;
+	display: block;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 47px;
+	margin-left: 10px;
+	width: 250px;
 }

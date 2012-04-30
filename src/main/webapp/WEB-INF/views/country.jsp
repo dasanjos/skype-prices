@@ -3,17 +3,15 @@
 <%@ taglib prefix="tags" tagdir="/WEB-INF/tags" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ page session="false" %>
-
 <tags:template>
 <jsp:attribute name="breadcrumb"><a href="${pageContext.request.contextPath}">Home</a> / ${country.name}</jsp:attribute>
 <jsp:body>
-
 <%@include file="countrySelect.jsp" %>
-
-<table border="1">
+<div id="tableWrapper">
+<table>
 	<%@include file="countryHeader.jsp" %>
 	<%@include file="countryRow.jsp" %>
 </table>
-
+</div>
 </jsp:body>	
 </tags:template>
