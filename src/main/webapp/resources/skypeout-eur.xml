@@ -1,0 +1,1982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+ <destination>
+  <cc>AF</cc>
+  <name>Afghanistan</name>
+  <prices>
+   <cost description="Afghanistan" price="0.300" priceVat="0.345" priceFormatted="30 cents" priceVatFormatted="34,5 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AL</cc>
+  <name>Albania</name>
+  <prices>
+   <cost description="Albania" price="0.142" priceVat="0.163" priceFormatted="14,2 cents" priceVatFormatted="16,3 cents" destinationType="2"/>
+   <cost description="Albania - Mobile" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>DZ</cc>
+  <name>Algeria</name>
+  <prices>
+   <cost description="Algeria" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="2"/>
+   <cost description="Algeria - Algiers" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="2"/>
+   <cost description="Algeria - Mobile" price="0.272" priceVat="0.313" priceFormatted="27,2 cents" priceVatFormatted="31,3 cents" destinationType="3"/>
+   <cost description="Algeria - Mobile - Wataniya" price="0.270" priceVat="0.311" priceFormatted="27 cents" priceVatFormatted="31,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AS</cc>
+  <name>American Samoa</name>
+  <prices>
+   <cost description="American Samoa" price="0.085" priceVat="0.098" priceFormatted="8,5 cents" priceVatFormatted="9,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AD</cc>
+  <name>Andorra</name>
+  <prices>
+   <cost description="Andorra" price="0.045" priceVat="0.052" priceFormatted="4,5 cents" priceVatFormatted="5,2 cents" destinationType="2"/>
+   <cost description="Andorra - Mobile" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AO</cc>
+  <name>Angola</name>
+  <prices>
+   <cost description="Angola" price="0.150" priceVat="0.173" priceFormatted="15 cents" priceVatFormatted="17,3 cents" destinationType="2"/>
+   <cost description="Angola - Mobile" price="0.208" priceVat="0.239" priceFormatted="20,8 cents" priceVatFormatted="23,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AI</cc>
+  <name>Anguilla</name>
+  <prices>
+   <cost description="Anguilla" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Anguilla - Mobile" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AQ</cc>
+  <name>Antarctica</name>
+  <prices>
+   <cost description="Antarctica" price="1.994" priceVat="2.293" priceFormatted="€1,99" priceVatFormatted="€2,29" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AG</cc>
+  <name>Antigua and Barbuda</name>
+  <prices>
+   <cost description="Antigua and Barbuda" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AR</cc>
+  <name>Argentina</name>
+  <prices>
+   <cost description="Argentina" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="2"/>
+   <cost description="Argentina - Buenos Aires" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Argentina - Cordoba" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Argentina - Mobile" price="0.189" priceVat="0.217" priceFormatted="18,9 cents" priceVatFormatted="21,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AM</cc>
+  <name>Armenia</name>
+  <prices>
+   <cost description="Armenia" price="0.090" priceVat="0.104" priceFormatted="9 cents" priceVatFormatted="10,4 cents" destinationType="2"/>
+   <cost description="Armenia - Erevan" price="0.105" priceVat="0.121" priceFormatted="10,5 cents" priceVatFormatted="12,1 cents" destinationType="2"/>
+   <cost description="Armenia - Mobile" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="3"/>
+   <cost description="Armenia - Nagorno-Karabakh" price="0.228" priceVat="0.262" priceFormatted="22,8 cents" priceVatFormatted="26,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AW</cc>
+  <name>Aruba</name>
+  <prices>
+   <cost description="Aruba" price="0.140" priceVat="0.161" priceFormatted="14,00 cents" priceVatFormatted="16,1 cents" destinationType="2"/>
+   <cost description="Aruba - Mobile" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AC</cc>
+  <name>Ascension Islands</name>
+  <prices>
+   <cost description="Ascension Islands" price="1.200" priceVat="1.380" priceFormatted="€1,20" priceVatFormatted="€1,38" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AU</cc>
+  <name>Australia</name>
+  <prices>
+   <cost description="Australia" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Australia - Canberra" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Australia - Mobile" price="0.168" priceVat="0.193" priceFormatted="16,8 cents" priceVatFormatted="19,3 cents" destinationType="3"/>
+   <cost description="Australia - Shared Cost - 1300 prefix" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="4"/>
+   <cost description="Australia - Special Service - 13 prefix" price="0.051" priceVat="0.059" priceFormatted="5,1 cents" priceVatFormatted="5,9 cents" destinationType="4"/>
+   <cost description="Australia - Sydney" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Australia - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AT</cc>
+  <name>Austria</name>
+  <prices>
+   <cost description="Austria" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Austria - Corporate Network" price="0.021" priceVat="0.024" priceFormatted="2,1 cents" priceVatFormatted="2,4 cents" destinationType="4"/>
+   <cost description="Austria - Mobile" price="0.228" priceVat="0.262" priceFormatted="22,8 cents" priceVatFormatted="26,2 cents" destinationType="3"/>
+   <cost description="Austria - Mobile - Telering" price="0.270" priceVat="0.311" priceFormatted="27 cents" priceVatFormatted="31,1 cents" destinationType="3"/>
+   <cost description="Austria - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AZ</cc>
+  <name>Azerbaijan</name>
+  <prices>
+   <cost description="Azerbaijan" price="0.180" priceVat="0.207" priceFormatted="18 cents" priceVatFormatted="20,7 cents" destinationType="2"/>
+   <cost description="Azerbaijan - Mobile" price="0.197" priceVat="0.227" priceFormatted="19,7 cents" priceVatFormatted="22,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BS</cc>
+  <name>Bahamas</name>
+  <prices>
+   <cost description="Bahamas" price="0.099" priceVat="0.114" priceFormatted="9,9 cents" priceVatFormatted="11,4 cents" destinationType="2"/>
+   <cost description="Bahamas - Mobile" price="0.199" priceVat="0.229" priceFormatted="19,9 cents" priceVatFormatted="22,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BH</cc>
+  <name>Bahrain</name>
+  <prices>
+   <cost description="Bahrain" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BD</cc>
+  <name>Bangladesh</name>
+  <prices>
+   <cost description="Bangladesh" price="0.111" priceVat="0.128" priceFormatted="11,1 cents" priceVatFormatted="12,8 cents" destinationType="2"/>
+   <cost description="Bangladesh - Chittagong" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="2"/>
+   <cost description="Bangladesh - Dhaka" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="2"/>
+   <cost description="Bangladesh - Mobile" price="0.111" priceVat="0.128" priceFormatted="11,1 cents" priceVatFormatted="12,8 cents" destinationType="3"/>
+   <cost description="Bangladesh - Sylhet" price="0.105" priceVat="0.121" priceFormatted="10,5 cents" priceVatFormatted="12,1 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BB</cc>
+  <name>Barbados</name>
+  <prices>
+   <cost description="Barbados" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BY</cc>
+  <name>Belarus</name>
+  <prices>
+   <cost description="Belarus" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="2"/>
+   <cost description="Belarus - Minsk" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="2"/>
+   <cost description="Belarus - Mobile" price="0.225" priceVat="0.259" priceFormatted="22,5 cents" priceVatFormatted="25,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BE</cc>
+  <name>Belgium</name>
+  <prices>
+   <cost description="Belgium" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Belgium - Mobile" price="0.220" priceVat="0.253" priceFormatted="22 cents" priceVatFormatted="25,3 cents" destinationType="3"/>
+   <cost description="Belgium - Mobile - Proximus" price="0.148" priceVat="0.170" priceFormatted="14,8 cents" priceVatFormatted="17 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BZ</cc>
+  <name>Belize</name>
+  <prices>
+   <cost description="Belize" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BJ</cc>
+  <name>Benin</name>
+  <prices>
+   <cost description="Benin" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="2"/>
+   <cost description="Benin - Mobile" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BM</cc>
+  <name>Bermuda</name>
+  <prices>
+   <cost description="Bermuda" price="0.090" priceVat="0.104" priceFormatted="9 cents" priceVatFormatted="10,4 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BT</cc>
+  <name>Bhutan</name>
+  <prices>
+   <cost description="Bhutan" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BO</cc>
+  <name>Bolivia</name>
+  <prices>
+   <cost description="Bolivia" price="0.128" priceVat="0.147" priceFormatted="12,8 cents" priceVatFormatted="14,7 cents" destinationType="2"/>
+   <cost description="Bolivia - Cochabamba" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Bolivia - La Paz" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Bolivia - Mobile" price="0.142" priceVat="0.163" priceFormatted="14,2 cents" priceVatFormatted="16,3 cents" destinationType="3"/>
+   <cost description="Bolivia - Santa Cruz" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BA</cc>
+  <name>Bosnia and Herzegovina</name>
+  <prices>
+   <cost description="Bosnia and Herzegovina" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="2"/>
+   <cost description="Bosnia and Herzegovina - Mobile" price="0.270" priceVat="0.311" priceFormatted="27 cents" priceVatFormatted="31,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BW</cc>
+  <name>Botswana</name>
+  <prices>
+   <cost description="Botswana" price="0.130" priceVat="0.150" priceFormatted="13 cents" priceVatFormatted="15 cents" destinationType="2"/>
+   <cost description="Botswana - Mobile" price="0.187" priceVat="0.215" priceFormatted="18,7 cents" priceVatFormatted="21,5 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BR</cc>
+  <name>Brazil</name>
+  <prices>
+   <cost description="Brazil" price="0.046" priceVat="0.053" priceFormatted="4,6 cents" priceVatFormatted="5,3 cents" destinationType="2"/>
+   <cost description="Brazil - Mobile" price="0.179" priceVat="0.206" priceFormatted="17,9 cents" priceVatFormatted="20,6 cents" destinationType="3"/>
+   <cost description="Brazil - Rio de Janeiro" price="0.030" priceVat="0.035" priceFormatted="3 cents" priceVatFormatted="3,5 cents" destinationType="2"/>
+   <cost description="Brazil - Sao Paulo" price="0.023" priceVat="0.026" priceFormatted="2,3 cents" priceVatFormatted="2,6 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IO</cc>
+  <name>British Indian Ocean Territory</name>
+  <prices>
+   <cost description="British Indian Ocean Territory" price="1.512" priceVat="1.739" priceFormatted="€1,51" priceVatFormatted="€1,74" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BN</cc>
+  <name>Brunei</name>
+  <prices>
+   <cost description="Brunei" price="0.140" priceVat="0.161" priceFormatted="14,00 cents" priceVatFormatted="16,1 cents" destinationType="2"/>
+   <cost description="Brunei - Mobile" price="0.125" priceVat="0.144" priceFormatted="12,5 cents" priceVatFormatted="14,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BG</cc>
+  <name>Bulgaria</name>
+  <prices>
+   <cost description="Bulgaria" price="0.055" priceVat="0.063" priceFormatted="5,5 cents" priceVatFormatted="6,3 cents" destinationType="2"/>
+   <cost description="Bulgaria - Mobile" price="0.270" priceVat="0.311" priceFormatted="27 cents" priceVatFormatted="31,1 cents" destinationType="3"/>
+   <cost description="Bulgaria - Sofia" price="0.036" priceVat="0.041" priceFormatted="3,6 cents" priceVatFormatted="4,1 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BF</cc>
+  <name>Burkina Faso</name>
+  <prices>
+   <cost description="Burkina Faso" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="2"/>
+   <cost description="Burkina Faso - Mobile" price="0.290" priceVat="0.334" priceFormatted="29 cents" priceVatFormatted="33,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>BI</cc>
+  <name>Burundi</name>
+  <prices>
+   <cost description="Burundi" price="0.125" priceVat="0.144" priceFormatted="12,5 cents" priceVatFormatted="14,4 cents" destinationType="2"/>
+   <cost description="Burundi - Mobile" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KH</cc>
+  <name>Cambodia</name>
+  <prices>
+   <cost description="Cambodia" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="2"/>
+   <cost description="Cambodia - Mobile" price="0.220" priceVat="0.253" priceFormatted="22 cents" priceVatFormatted="25,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CM</cc>
+  <name>Cameroon</name>
+  <prices>
+   <cost description="Cameroon" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="2"/>
+   <cost description="Cameroon - Mobile" price="0.228" priceVat="0.262" priceFormatted="22,8 cents" priceVatFormatted="26,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CA</cc>
+  <name>Canada</name>
+  <prices>
+   <cost description="Canada" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CV</cc>
+  <name>Cape Verde</name>
+  <prices>
+   <cost description="Cape Verde" price="0.255" priceVat="0.293" priceFormatted="25,5 cents" priceVatFormatted="29,3 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KY</cc>
+  <name>Cayman Islands</name>
+  <prices>
+   <cost description="Cayman Islands" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CF</cc>
+  <name>Central African Republic</name>
+  <prices>
+   <cost description="Central African Republic" price="0.320" priceVat="0.368" priceFormatted="32 cents" priceVatFormatted="36,8 cents" destinationType="2"/>
+   <cost description="Central African Republic - Mobile" price="0.320" priceVat="0.368" priceFormatted="32 cents" priceVatFormatted="36,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TD</cc>
+  <name>Chad</name>
+  <prices>
+   <cost description="Chad" price="0.265" priceVat="0.305" priceFormatted="26,5 cents" priceVatFormatted="30,5 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CL</cc>
+  <name>Chile</name>
+  <prices>
+   <cost description="Chile" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Chile - Mobile" price="0.189" priceVat="0.217" priceFormatted="18,9 cents" priceVatFormatted="21,7 cents" destinationType="3"/>
+   <cost description="Chile - Santiago" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CN</cc>
+  <name>China</name>
+  <prices>
+   <cost description="China" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="China - Beijing" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="China - Guangzhou" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="China - Mobile" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="3"/>
+   <cost description="China - Shanghai" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="China - Shenzhen" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CO</cc>
+  <name>Colombia</name>
+  <prices>
+   <cost description="Colombia" price="0.078" priceVat="0.090" priceFormatted="7,8 cents" priceVatFormatted="9 cents" destinationType="2"/>
+   <cost description="Colombia - Armenia" price="0.078" priceVat="0.090" priceFormatted="7,8 cents" priceVatFormatted="9 cents" destinationType="2"/>
+   <cost description="Colombia - Barranquilla" price="0.046" priceVat="0.053" priceFormatted="4,6 cents" priceVatFormatted="5,3 cents" destinationType="2"/>
+   <cost description="Colombia - Bogota" price="0.046" priceVat="0.053" priceFormatted="4,6 cents" priceVatFormatted="5,3 cents" destinationType="2"/>
+   <cost description="Colombia - Cali" price="0.046" priceVat="0.053" priceFormatted="4,6 cents" priceVatFormatted="5,3 cents" destinationType="2"/>
+   <cost description="Colombia - LEX" price="0.150" priceVat="0.173" priceFormatted="15 cents" priceVatFormatted="17,3 cents" destinationType="2"/>
+   <cost description="Colombia - Medellin" price="0.078" priceVat="0.090" priceFormatted="7,8 cents" priceVatFormatted="9 cents" destinationType="2"/>
+   <cost description="Colombia - Mobile" price="0.086" priceVat="0.099" priceFormatted="8,6 cents" priceVatFormatted="9,9 cents" destinationType="3"/>
+   <cost description="Colombia - Pereira" price="0.078" priceVat="0.090" priceFormatted="7,8 cents" priceVatFormatted="9 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KM</cc>
+  <name>Comoros</name>
+  <prices>
+   <cost description="Comoros" price="0.470" priceVat="0.541" priceFormatted="47 cents" priceVatFormatted="54,1 cents" destinationType="2"/>
+   <cost description="Comoros - Mobile" price="0.470" priceVat="0.541" priceFormatted="47 cents" priceVatFormatted="54,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CG</cc>
+  <name>Congo</name>
+  <prices>
+   <cost description="Congo" price="0.300" priceVat="0.345" priceFormatted="30 cents" priceVatFormatted="34,5 cents" destinationType="2"/>
+   <cost description="Congo - Mobile" price="0.295" priceVat="0.339" priceFormatted="29,5 cents" priceVatFormatted="33,90 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CD</cc>
+  <name>Congo, The Democratic Republic of the</name>
+  <prices>
+   <cost description="Congo, The Democratic Republic of the" price="0.305" priceVat="0.351" priceFormatted="30,5 cents" priceVatFormatted="35,10 cents" destinationType="2"/>
+   <cost description="Congo, The Democratic Republic of the - Mobile" price="0.285" priceVat="0.328" priceFormatted="28,5 cents" priceVatFormatted="32,8 cents" destinationType="3"/>
+   <cost description="Congo, The Democratic Republic of the - Mobile - Tatem" price="0.390" priceVat="0.449" priceFormatted="39 cents" priceVatFormatted="44,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CK</cc>
+  <name>Cook Islands</name>
+  <prices>
+   <cost description="Cook Islands" price="0.710" priceVat="0.817" priceFormatted="71 cents" priceVatFormatted="81,70 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CR</cc>
+  <name>Costa Rica</name>
+  <prices>
+   <cost description="Costa Rica" price="0.058" priceVat="0.067" priceFormatted="5,8 cents" priceVatFormatted="6,7 cents" destinationType="2"/>
+   <cost description="Costa Rica - Mobile" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CI</cc>
+  <name>Cote D’Ivoire</name>
+  <prices>
+   <cost description="Cote D’Ivoire" price="0.180" priceVat="0.207" priceFormatted="18 cents" priceVatFormatted="20,7 cents" destinationType="2"/>
+   <cost description="Cote D’Ivoire - Mobile" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>HR</cc>
+  <name>Croatia</name>
+  <prices>
+   <cost description="Croatia" price="0.046" priceVat="0.053" priceFormatted="4,6 cents" priceVatFormatted="5,3 cents" destinationType="2"/>
+   <cost description="Croatia - Mobile" price="0.186" priceVat="0.214" priceFormatted="18,6 cents" priceVatFormatted="21,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CU</cc>
+  <name>Cuba</name>
+  <prices>
+   <cost description="Cuba" price="0.920" priceVat="1.058" priceFormatted="92 cents" priceVatFormatted="€1,06" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CY</cc>
+  <name>Cyprus</name>
+  <prices>
+   <cost description="Cyprus" price="0.050" priceVat="0.058" priceFormatted="5 cents" priceVatFormatted="5,8 cents" destinationType="2"/>
+   <cost description="Cyprus - Mobile" price="0.062" priceVat="0.071" priceFormatted="6,2 cents" priceVatFormatted="7,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CZ</cc>
+  <name>Czech Republic</name>
+  <prices>
+   <cost description="Czech Republic" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Czech Republic - Mobile" price="0.152" priceVat="0.175" priceFormatted="15,2 cents" priceVatFormatted="17,5 cents" destinationType="3"/>
+   <cost description="Czech Republic - Prague" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>DK</cc>
+  <name>Denmark</name>
+  <prices>
+   <cost description="Denmark" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Denmark - Mobile" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="3"/>
+   <cost description="Denmark - Shared Cost" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>DJ</cc>
+  <name>Djibouti</name>
+  <prices>
+   <cost description="Djibouti" price="0.315" priceVat="0.362" priceFormatted="31,5 cents" priceVatFormatted="36,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>DM</cc>
+  <name>Dominica</name>
+  <prices>
+   <cost description="Dominica" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>DO</cc>
+  <name>Dominican Republic</name>
+  <prices>
+   <cost description="Dominican Republic" price="0.066" priceVat="0.076" priceFormatted="6,6 cents" priceVatFormatted="7,6 cents" destinationType="2"/>
+   <cost description="Dominican Republic - Mobile" price="0.111" priceVat="0.128" priceFormatted="11,1 cents" priceVatFormatted="12,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>EC</cc>
+  <name>Ecuador</name>
+  <prices>
+   <cost description="Ecuador" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="2"/>
+   <cost description="Ecuador - Cuenca" price="0.145" priceVat="0.167" priceFormatted="14,5 cents" priceVatFormatted="16,7 cents" destinationType="2"/>
+   <cost description="Ecuador - Guayaquil" price="0.145" priceVat="0.167" priceFormatted="14,5 cents" priceVatFormatted="16,7 cents" destinationType="2"/>
+   <cost description="Ecuador - Mobile" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="3"/>
+   <cost description="Ecuador - Quito" price="0.145" priceVat="0.167" priceFormatted="14,5 cents" priceVatFormatted="16,7 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>EG</cc>
+  <name>Egypt</name>
+  <prices>
+   <cost description="Egypt" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Egypt - Cairo" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Egypt - Mobile" price="0.129" priceVat="0.148" priceFormatted="12,9 cents" priceVatFormatted="14,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SV</cc>
+  <name>El Salvador</name>
+  <prices>
+   <cost description="El Salvador" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="2"/>
+   <cost description="El Salvador - Mobile" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GQ</cc>
+  <name>Equatorial Guinea</name>
+  <prices>
+   <cost description="Equatorial Guinea" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ER</cc>
+  <name>Eritrea</name>
+  <prices>
+   <cost description="Eritrea" price="0.320" priceVat="0.368" priceFormatted="32 cents" priceVatFormatted="36,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>EE</cc>
+  <name>Estonia</name>
+  <prices>
+   <cost description="Estonia" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Estonia - Mobile" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="3"/>
+   <cost description="Estonia - Personal Number" price="0.455" priceVat="0.523" priceFormatted="45,5 cents" priceVatFormatted="52,3 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ET</cc>
+  <name>Ethiopia</name>
+  <prices>
+   <cost description="Ethiopia" price="0.390" priceVat="0.449" priceFormatted="39 cents" priceVatFormatted="44,9 cents" destinationType="2"/>
+   <cost description="Ethiopia - Mobile" price="0.300" priceVat="0.345" priceFormatted="30 cents" priceVatFormatted="34,5 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>FK</cc>
+  <name>Falkland Islands (Malvinas)</name>
+  <prices>
+   <cost description="Falkland Islands (Malvinas)" price="0.570" priceVat="0.656" priceFormatted="57,00 cents" priceVatFormatted="65,60 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>FO</cc>
+  <name>Faroe Islands</name>
+  <prices>
+   <cost description="Faroe Islands" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="2"/>
+   <cost description="Faroe Islands - Mobile" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>FJ</cc>
+  <name>Fiji</name>
+  <prices>
+   <cost description="Fiji" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>FI</cc>
+  <name>Finland</name>
+  <prices>
+   <cost description="Finland" price="0.035" priceVat="0.040" priceFormatted="3,5 cents" priceVatFormatted="4 cents" destinationType="2"/>
+   <cost description="Finland - Corporate" price="0.035" priceVat="0.040" priceFormatted="3,5 cents" priceVatFormatted="4 cents" destinationType="4"/>
+   <cost description="Finland - Helsinki" price="0.035" priceVat="0.040" priceFormatted="3,5 cents" priceVatFormatted="4 cents" destinationType="2"/>
+   <cost description="Finland - Mobile" price="0.168" priceVat="0.193" priceFormatted="16,8 cents" priceVatFormatted="19,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>FR</cc>
+  <name>France</name>
+  <prices>
+   <cost description="France" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="France - 0891" price="0.255" priceVat="0.293" priceFormatted="25,5 cents" priceVatFormatted="29,3 cents" destinationType="4"/>
+   <cost description="France - 0892" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="4"/>
+   <cost description="France - 0893" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="4"/>
+   <cost description="France - Mobile" price="0.169" priceVat="0.194" priceFormatted="16,9 cents" priceVatFormatted="19,4 cents" destinationType="3"/>
+   <cost description="France - Paris" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="France - Shared Cost" price="0.175" priceVat="0.201" priceFormatted="17,5 cents" priceVatFormatted="20,1 cents" destinationType="4"/>
+   <cost description="France - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GF</cc>
+  <name>French Guiana</name>
+  <prices>
+   <cost description="French Guiana" price="0.215" priceVat="0.247" priceFormatted="21,5 cents" priceVatFormatted="24,7 cents" destinationType="2"/>
+   <cost description="French Guiana - Mobile" price="0.258" priceVat="0.297" priceFormatted="25,8 cents" priceVatFormatted="29,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PF</cc>
+  <name>French Polynesia</name>
+  <prices>
+   <cost description="French Polynesia" price="0.250" priceVat="0.288" priceFormatted="25 cents" priceVatFormatted="28,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GA</cc>
+  <name>Gabon</name>
+  <prices>
+   <cost description="Gabon" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="2"/>
+   <cost description="Gabon - Mobile" price="0.410" priceVat="0.472" priceFormatted="41 cents" priceVatFormatted="47,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GM</cc>
+  <name>Gambia</name>
+  <prices>
+   <cost description="Gambia" price="0.350" priceVat="0.403" priceFormatted="35 cents" priceVatFormatted="40,3 cents" destinationType="2"/>
+   <cost description="Gambia - Mobile" price="0.348" priceVat="0.400" priceFormatted="34,8 cents" priceVatFormatted="40 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GE</cc>
+  <name>Georgia</name>
+  <prices>
+   <cost description="Georgia" price="0.078" priceVat="0.090" priceFormatted="7,8 cents" priceVatFormatted="9 cents" destinationType="2"/>
+   <cost description="Georgia - Mobile" price="0.162" priceVat="0.186" priceFormatted="16,2 cents" priceVatFormatted="18,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>DE</cc>
+  <name>Germany</name>
+  <prices>
+   <cost description="Germany" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Germany - Mobile - Others" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="3"/>
+   <cost description="Germany - Mobile - T-Mobile" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="3"/>
+   <cost description="Germany - Mobile - Vodafone" price="0.205" priceVat="0.236" priceFormatted="20,5 cents" priceVatFormatted="23,6 cents" destinationType="3"/>
+   <cost description="Germany - Shared Cost - 0180" price="0.040" priceVat="0.046" priceFormatted="4 cents" priceVatFormatted="4,6 cents" destinationType="4"/>
+   <cost description="Germany - Shared Cost 1 - 01801" price="0.050" priceVat="0.058" priceFormatted="5 cents" priceVatFormatted="5,8 cents" destinationType="4"/>
+   <cost description="Germany - Shared Cost 2 - 01802" price="0.045" priceVat="0.052" priceFormatted="4,5 cents" priceVatFormatted="5,2 cents" destinationType="4"/>
+   <cost description="Germany - Shared Cost 3 - 01803" price="0.110" priceVat="0.127" priceFormatted="11 cents" priceVatFormatted="12,7 cents" destinationType="4"/>
+   <cost description="Germany - Shared Cost 4 - 01804" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="4"/>
+   <cost description="Germany - Shared Cost 5 - 01805" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="4"/>
+   <cost description="Germany - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GH</cc>
+  <name>Ghana</name>
+  <prices>
+   <cost description="Ghana" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="2"/>
+   <cost description="Ghana - Accra" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="2"/>
+   <cost description="Ghana - Mobile" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GI</cc>
+  <name>Gibraltar</name>
+  <prices>
+   <cost description="Gibraltar" price="0.070" priceVat="0.081" priceFormatted="7,00 cents" priceVatFormatted="8,1 cents" destinationType="2"/>
+   <cost description="Gibraltar - Mobile" price="0.260" priceVat="0.299" priceFormatted="26 cents" priceVatFormatted="29,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GR</cc>
+  <name>Greece</name>
+  <prices>
+   <cost description="Greece" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Greece - Athens" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Greece - Mobile - Cosmote" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+   <cost description="Greece - Mobile - Others" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+   <cost description="Greece - Mobile - Q Telecom" price="0.300" priceVat="0.345" priceFormatted="30 cents" priceVatFormatted="34,5 cents" destinationType="3"/>
+   <cost description="Greece - Mobile - Telestet" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+   <cost description="Greece - Mobile - Vodafone" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GL</cc>
+  <name>Greenland</name>
+  <prices>
+   <cost description="Greenland" price="0.470" priceVat="0.541" priceFormatted="47 cents" priceVatFormatted="54,1 cents" destinationType="2"/>
+   <cost description="Greenland - Mobile" price="0.480" priceVat="0.552" priceFormatted="48 cents" priceVatFormatted="55,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GD</cc>
+  <name>Grenada</name>
+  <prices>
+   <cost description="Grenada" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="2"/>
+   <cost description="Grenada - Mobile" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GP</cc>
+  <name>Guadeloupe</name>
+  <prices>
+   <cost description="Guadeloupe" price="0.082" priceVat="0.094" priceFormatted="8,2 cents" priceVatFormatted="9,4 cents" destinationType="2"/>
+   <cost description="Guadeloupe - Mobile" price="0.270" priceVat="0.311" priceFormatted="27 cents" priceVatFormatted="31,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GU</cc>
+  <name>Guam</name>
+  <prices>
+   <cost description="Guam" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GT</cc>
+  <name>Guatemala</name>
+  <prices>
+   <cost description="Guatemala" price="0.106" priceVat="0.122" priceFormatted="10,6 cents" priceVatFormatted="12,2 cents" destinationType="2"/>
+   <cost description="Guatemala - Mobile" price="0.113" priceVat="0.130" priceFormatted="11,3 cents" priceVatFormatted="13 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GN</cc>
+  <name>Guinea</name>
+  <prices>
+   <cost description="Guinea" price="0.350" priceVat="0.403" priceFormatted="35 cents" priceVatFormatted="40,3 cents" destinationType="2"/>
+   <cost description="Guinea - Mobile" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GW</cc>
+  <name>Guinea-Bissau</name>
+  <prices>
+   <cost description="Guinea-Bissau - Bissau" price="0.890" priceVat="1.024" priceFormatted="89 cents" priceVatFormatted="€1,02" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GY</cc>
+  <name>Guyana</name>
+  <prices>
+   <cost description="Guyana" price="0.315" priceVat="0.362" priceFormatted="31,5 cents" priceVatFormatted="36,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>HT</cc>
+  <name>Haiti</name>
+  <prices>
+   <cost description="Haiti" price="0.218" priceVat="0.251" priceFormatted="21,8 cents" priceVatFormatted="25,1 cents" destinationType="2"/>
+   <cost description="Haiti - Mobile" price="0.218" priceVat="0.251" priceFormatted="21,8 cents" priceVatFormatted="25,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>HN</cc>
+  <name>Honduras</name>
+  <prices>
+   <cost description="Honduras" price="0.300" priceVat="0.345" priceFormatted="30 cents" priceVatFormatted="34,5 cents" destinationType="2"/>
+   <cost description="Honduras - Mobile" price="0.320" priceVat="0.368" priceFormatted="32 cents" priceVatFormatted="36,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>HK</cc>
+  <name>Hong Kong S.A.R., China</name>
+  <prices>
+   <cost description="Hong Kong S.A.R., China" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Hong Kong S.A.R., China - Mobile" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>HU</cc>
+  <name>Hungary</name>
+  <prices>
+   <cost description="Hungary" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Hungary - Budapest" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Hungary - Mobile" price="0.182" priceVat="0.209" priceFormatted="18,2 cents" priceVatFormatted="20,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SQ</cc>
+  <name>INMARSAT AERO</name>
+  <prices>
+   <cost description="INMARSAT AERO" price="4.000" priceVat="4.600" priceFormatted="€4,00" priceVatFormatted="€4,60" destinationType="4"/>
+   <cost description="INMARSAT B" price="1.800" priceVat="2.070" priceFormatted="€1,80" priceVatFormatted="€2,07" destinationType="4"/>
+   <cost description="INMARSAT B HSD" price="4.000" priceVat="4.600" priceFormatted="€4,00" priceVatFormatted="€4,60" destinationType="4"/>
+   <cost description="INMARSAT BGAN" price="1.800" priceVat="2.070" priceFormatted="€1,80" priceVatFormatted="€2,07" destinationType="4"/>
+   <cost description="INMARSAT BGAN HSD" price="4.000" priceVat="4.600" priceFormatted="€4,00" priceVatFormatted="€4,60" destinationType="4"/>
+   <cost description="INMARSAT GAN/FLEET/SWIFT HSD" price="4.000" priceVat="4.600" priceFormatted="€4,00" priceVatFormatted="€4,60" destinationType="4"/>
+   <cost description="INMARSAT M" price="1.800" priceVat="2.070" priceFormatted="€1,80" priceVatFormatted="€2,07" destinationType="4"/>
+   <cost description="INMARSAT MINI M/GAN/FLEET/SWIFT" price="1.800" priceVat="2.070" priceFormatted="€1,80" priceVatFormatted="€2,07" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IS</cc>
+  <name>Iceland</name>
+  <prices>
+   <cost description="Iceland" price="0.027" priceVat="0.031" priceFormatted="2,7 cents" priceVatFormatted="3,1 cents" destinationType="2"/>
+   <cost description="Iceland - Mobile" price="0.245" priceVat="0.282" priceFormatted="24,5 cents" priceVatFormatted="28,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IN</cc>
+  <name>India</name>
+  <prices>
+   <cost description="India" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="2"/>
+   <cost description="India - Ahmedabad" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="2"/>
+   <cost description="India - Bangalore" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="2"/>
+   <cost description="India - Hyderabad" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="2"/>
+   <cost description="India - Madras" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="2"/>
+   <cost description="India - Mobile" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="3"/>
+   <cost description="India - New Delhi" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ID</cc>
+  <name>Indonesia</name>
+  <prices>
+   <cost description="Indonesia" price="0.078" priceVat="0.090" priceFormatted="7,8 cents" priceVatFormatted="9 cents" destinationType="2"/>
+   <cost description="Indonesia - Jakarta" price="0.035" priceVat="0.040" priceFormatted="3,5 cents" priceVatFormatted="4 cents" destinationType="2"/>
+   <cost description="Indonesia - Mobile" price="0.127" priceVat="0.146" priceFormatted="12,7 cents" priceVatFormatted="14,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VO</cc>
+  <name>International Networks (+883)</name>
+  <prices>
+   <cost description="International Networks (+883)" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IZ</cc>
+  <name>International Toll Free</name>
+  <prices>
+   <cost description="International Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IR</cc>
+  <name>Iran</name>
+  <prices>
+   <cost description="Iran" price="0.093" priceVat="0.107" priceFormatted="9,3 cents" priceVatFormatted="10,7 cents" destinationType="2"/>
+   <cost description="Iran - Mobile" price="0.111" priceVat="0.128" priceFormatted="11,1 cents" priceVatFormatted="12,8 cents" destinationType="3"/>
+   <cost description="Iran - Tehran" price="0.093" priceVat="0.107" priceFormatted="9,3 cents" priceVatFormatted="10,7 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IQ</cc>
+  <name>Iraq</name>
+  <prices>
+   <cost description="Iraq" price="0.315" priceVat="0.362" priceFormatted="31,5 cents" priceVatFormatted="36,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IE</cc>
+  <name>Ireland</name>
+  <prices>
+   <cost description="Ireland" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Ireland - Dublin" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Ireland - Mobile" price="0.175" priceVat="0.201" priceFormatted="17,5 cents" priceVatFormatted="20,1 cents" destinationType="3"/>
+   <cost description="Ireland - Shared Cost" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IL</cc>
+  <name>Israel</name>
+  <prices>
+   <cost description="Israel" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Israel - Jerusalem" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Israel - Mobile" price="0.111" priceVat="0.128" priceFormatted="11,1 cents" priceVatFormatted="12,8 cents" destinationType="3"/>
+   <cost description="Israel - Palestine Region" price="0.208" priceVat="0.239" priceFormatted="20,8 cents" priceVatFormatted="23,9 cents" destinationType="2"/>
+   <cost description="Israel - Palestine Region - Mobile" price="0.215" priceVat="0.247" priceFormatted="21,5 cents" priceVatFormatted="24,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>IT</cc>
+  <name>Italy</name>
+  <prices>
+   <cost description="Italy" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Italy - Mobile" price="0.250" priceVat="0.288" priceFormatted="25 cents" priceVatFormatted="28,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>JM</cc>
+  <name>Jamaica</name>
+  <prices>
+   <cost description="Jamaica" price="0.108" priceVat="0.124" priceFormatted="10,8 cents" priceVatFormatted="12,4 cents" destinationType="2"/>
+   <cost description="Jamaica - Mobile" price="0.188" priceVat="0.216" priceFormatted="18,8 cents" priceVatFormatted="21,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>JP</cc>
+  <name>Japan</name>
+  <prices>
+   <cost description="Japan" price="0.023" priceVat="0.026" priceFormatted="2,3 cents" priceVatFormatted="2,6 cents" destinationType="2"/>
+   <cost description="Japan - Mobile" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="3"/>
+   <cost description="Japan - VOIP" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>JO</cc>
+  <name>Jordan</name>
+  <prices>
+   <cost description="Jordan" price="0.169" priceVat="0.194" priceFormatted="16,9 cents" priceVatFormatted="19,4 cents" destinationType="2"/>
+   <cost description="Jordan - Mobile" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KZ</cc>
+  <name>Kazakhstan</name>
+  <prices>
+   <cost description="Kazakhstan" price="0.148" priceVat="0.170" priceFormatted="14,8 cents" priceVatFormatted="17 cents" destinationType="2"/>
+   <cost description="Kazakhstan - Mobile" price="0.165" priceVat="0.190" priceFormatted="16,5 cents" priceVatFormatted="19 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KE</cc>
+  <name>Kenya</name>
+  <prices>
+   <cost description="Kenya" price="0.204" priceVat="0.235" priceFormatted="20,4 cents" priceVatFormatted="23,5 cents" destinationType="2"/>
+   <cost description="Kenya - Mobile" price="0.285" priceVat="0.328" priceFormatted="28,5 cents" priceVatFormatted="32,8 cents" destinationType="3"/>
+   <cost description="Kenya - Mombasa" price="0.189" priceVat="0.217" priceFormatted="18,9 cents" priceVatFormatted="21,7 cents" destinationType="2"/>
+   <cost description="Kenya - Nairobi" price="0.189" priceVat="0.217" priceFormatted="18,9 cents" priceVatFormatted="21,7 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KI</cc>
+  <name>Kiribati</name>
+  <prices>
+   <cost description="Kiribati" price="0.630" priceVat="0.725" priceFormatted="63 cents" priceVatFormatted="72,5 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KP</cc>
+  <name>Korea, North</name>
+  <prices>
+   <cost description="Korea, North" price="0.570" priceVat="0.656" priceFormatted="57,00 cents" priceVatFormatted="65,60 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KR</cc>
+  <name>Korea, South</name>
+  <prices>
+   <cost description="Korea, South" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Korea, South - Mobile" price="0.061" priceVat="0.070" priceFormatted="6,1 cents" priceVatFormatted="7,00 cents" destinationType="3"/>
+   <cost description="Korea, South - Seoul" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KW</cc>
+  <name>Kuwait</name>
+  <prices>
+   <cost description="Kuwait" price="0.107" priceVat="0.123" priceFormatted="10,7 cents" priceVatFormatted="12,3 cents" destinationType="2"/>
+   <cost description="Kuwait - Mobile" price="0.107" priceVat="0.123" priceFormatted="10,7 cents" priceVatFormatted="12,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KG</cc>
+  <name>Kyrgyzstan</name>
+  <prices>
+   <cost description="Kyrgyzstan" price="0.110" priceVat="0.127" priceFormatted="11 cents" priceVatFormatted="12,7 cents" destinationType="2"/>
+   <cost description="Kyrgyzstan - Mobile" price="0.119" priceVat="0.137" priceFormatted="11,9 cents" priceVatFormatted="13,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LA</cc>
+  <name>Laos</name>
+  <prices>
+   <cost description="Laos" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LV</cc>
+  <name>Latvia</name>
+  <prices>
+   <cost description="Latvia" price="0.053" priceVat="0.061" priceFormatted="5,3 cents" priceVatFormatted="6,1 cents" destinationType="2"/>
+   <cost description="Latvia - Mobile" price="0.156" priceVat="0.179" priceFormatted="15,6 cents" priceVatFormatted="17,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LB</cc>
+  <name>Lebanon</name>
+  <prices>
+   <cost description="Lebanon" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Lebanon - Mobile" price="0.203" priceVat="0.233" priceFormatted="20,3 cents" priceVatFormatted="23,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LS</cc>
+  <name>Lesotho</name>
+  <prices>
+   <cost description="Lesotho" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="2"/>
+   <cost description="Lesotho - Mobile" price="0.295" priceVat="0.339" priceFormatted="29,5 cents" priceVatFormatted="33,90 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LR</cc>
+  <name>Liberia</name>
+  <prices>
+   <cost description="Liberia" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LY</cc>
+  <name>Libya</name>
+  <prices>
+   <cost description="Libya" price="0.242" priceVat="0.278" priceFormatted="24,2 cents" priceVatFormatted="27,8 cents" destinationType="2"/>
+   <cost description="Libya - Mobile" price="0.262" priceVat="0.301" priceFormatted="26,2 cents" priceVatFormatted="30,10 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LI</cc>
+  <name>Liechtenstein</name>
+  <prices>
+   <cost description="Liechtenstein" price="0.055" priceVat="0.063" priceFormatted="5,5 cents" priceVatFormatted="6,3 cents" destinationType="2"/>
+   <cost description="Liechtenstein - Mobile" price="0.410" priceVat="0.472" priceFormatted="41 cents" priceVatFormatted="47,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LT</cc>
+  <name>Lithuania</name>
+  <prices>
+   <cost description="Lithuania" price="0.052" priceVat="0.060" priceFormatted="5,2 cents" priceVatFormatted="6 cents" destinationType="2"/>
+   <cost description="Lithuania - Mobile" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LU</cc>
+  <name>Luxembourg</name>
+  <prices>
+   <cost description="Luxembourg" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Luxembourg - Mobile" price="0.202" priceVat="0.232" priceFormatted="20,2 cents" priceVatFormatted="23,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MO</cc>
+  <name>Macao</name>
+  <prices>
+   <cost description="Macao" price="0.055" priceVat="0.063" priceFormatted="5,5 cents" priceVatFormatted="6,3 cents" destinationType="2"/>
+   <cost description="Macao - Mobile" price="0.075" priceVat="0.086" priceFormatted="7,5 cents" priceVatFormatted="8,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MK</cc>
+  <name>Macedonia</name>
+  <prices>
+   <cost description="Macedonia" price="0.182" priceVat="0.209" priceFormatted="18,2 cents" priceVatFormatted="20,9 cents" destinationType="2"/>
+   <cost description="Macedonia - Mobile" price="0.315" priceVat="0.362" priceFormatted="31,5 cents" priceVatFormatted="36,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MG</cc>
+  <name>Madagascar</name>
+  <prices>
+   <cost description="Madagascar" price="0.324" priceVat="0.373" priceFormatted="32,4 cents" priceVatFormatted="37,3 cents" destinationType="2"/>
+   <cost description="Madagascar - Mobile" price="0.324" priceVat="0.373" priceFormatted="32,4 cents" priceVatFormatted="37,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MW</cc>
+  <name>Malawi</name>
+  <prices>
+   <cost description="Malawi" price="0.111" priceVat="0.128" priceFormatted="11,1 cents" priceVatFormatted="12,8 cents" destinationType="2"/>
+   <cost description="Malawi - Mobile" price="0.121" priceVat="0.139" priceFormatted="12,1 cents" priceVatFormatted="13,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MY</cc>
+  <name>Malaysia</name>
+  <prices>
+   <cost description="Malaysia" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Malaysia - Kuala Lumpur" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Malaysia - Mobile" price="0.051" priceVat="0.059" priceFormatted="5,1 cents" priceVatFormatted="5,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MV</cc>
+  <name>Maldives</name>
+  <prices>
+   <cost description="Maldives" price="0.500" priceVat="0.575" priceFormatted="50 cents" priceVatFormatted="57,50 cents" destinationType="2"/>
+   <cost description="Maldives - Mobile" price="0.570" priceVat="0.656" priceFormatted="57,00 cents" priceVatFormatted="65,60 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ML</cc>
+  <name>Mali</name>
+  <prices>
+   <cost description="Mali" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="1"/>
+   <cost description="Mali - Bamako" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MT</cc>
+  <name>Malta</name>
+  <prices>
+   <cost description="Malta" price="0.116" priceVat="0.133" priceFormatted="11,6 cents" priceVatFormatted="13,3 cents" destinationType="2"/>
+   <cost description="Malta - Mobile" price="0.200" priceVat="0.230" priceFormatted="20 cents" priceVatFormatted="23 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MH</cc>
+  <name>Marshall Islands</name>
+  <prices>
+   <cost description="Marshall Islands" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MQ</cc>
+  <name>Martinique</name>
+  <prices>
+   <cost description="Martinique" price="0.245" priceVat="0.282" priceFormatted="24,5 cents" priceVatFormatted="28,2 cents" destinationType="2"/>
+   <cost description="Martinique - Mobile" price="0.250" priceVat="0.288" priceFormatted="25 cents" priceVatFormatted="28,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MR</cc>
+  <name>Mauritania</name>
+  <prices>
+   <cost description="Mauritania" price="0.302" priceVat="0.347" priceFormatted="30,2 cents" priceVatFormatted="34,7 cents" destinationType="2"/>
+   <cost description="Mauritania - Mobile" price="0.493" priceVat="0.567" priceFormatted="49,3 cents" priceVatFormatted="56,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MU</cc>
+  <name>Mauritius</name>
+  <prices>
+   <cost description="Mauritius" price="0.172" priceVat="0.198" priceFormatted="17,2 cents" priceVatFormatted="19,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>YT</cc>
+  <name>Mayotte</name>
+  <prices>
+   <cost description="Mayotte" price="0.470" priceVat="0.541" priceFormatted="47 cents" priceVatFormatted="54,1 cents" destinationType="2"/>
+   <cost description="Mayotte - Mobile" price="0.470" priceVat="0.541" priceFormatted="47 cents" priceVatFormatted="54,1 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MX</cc>
+  <name>Mexico</name>
+  <prices>
+   <cost description="Mexico" price="0.085" priceVat="0.098" priceFormatted="8,5 cents" priceVatFormatted="9,8 cents" destinationType="2"/>
+   <cost description="Mexico - Guadalajara" price="0.026" priceVat="0.030" priceFormatted="2,6 cents" priceVatFormatted="3 cents" destinationType="2"/>
+   <cost description="Mexico - Mexico City" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Mexico - Mobile" price="0.267" priceVat="0.307" priceFormatted="26,7 cents" priceVatFormatted="30,7 cents" destinationType="3"/>
+   <cost description="Mexico - Monterrey" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>FM</cc>
+  <name>Micronesia, Federated States Of</name>
+  <prices>
+   <cost description="Micronesia, Federated States Of" price="0.295" priceVat="0.339" priceFormatted="29,5 cents" priceVatFormatted="33,90 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MD</cc>
+  <name>Moldova</name>
+  <prices>
+   <cost description="Moldova" price="0.135" priceVat="0.155" priceFormatted="13,5 cents" priceVatFormatted="15,5 cents" destinationType="2"/>
+   <cost description="Moldova - Mobile" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MC</cc>
+  <name>Monaco</name>
+  <prices>
+   <cost description="Monaco" price="0.036" priceVat="0.041" priceFormatted="3,6 cents" priceVatFormatted="4,1 cents" destinationType="2"/>
+   <cost description="Monaco - Mobile" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="3"/>
+   <cost description="Monaco - Mobile-EX" price="0.250" priceVat="0.288" priceFormatted="25 cents" priceVatFormatted="28,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MN</cc>
+  <name>Mongolia</name>
+  <prices>
+   <cost description="Mongolia" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ME</cc>
+  <name>Montenegro</name>
+  <prices>
+   <cost description="Montenegro" price="0.105" priceVat="0.121" priceFormatted="10,5 cents" priceVatFormatted="12,1 cents" destinationType="2"/>
+   <cost description="Montenegro - Mobile" price="0.230" priceVat="0.265" priceFormatted="23 cents" priceVatFormatted="26,5 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MS</cc>
+  <name>Montserrat</name>
+  <prices>
+   <cost description="Montserrat" price="0.220" priceVat="0.253" priceFormatted="22 cents" priceVatFormatted="25,3 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MA</cc>
+  <name>Morocco</name>
+  <prices>
+   <cost description="Morocco" price="0.213" priceVat="0.245" priceFormatted="21,3 cents" priceVatFormatted="24,5 cents" destinationType="2"/>
+   <cost description="Morocco - Casablanca" price="0.213" priceVat="0.245" priceFormatted="21,3 cents" priceVatFormatted="24,5 cents" destinationType="2"/>
+   <cost description="Morocco - Mobile" price="0.292" priceVat="0.336" priceFormatted="29,2 cents" priceVatFormatted="33,6 cents" destinationType="3"/>
+   <cost description="Morocco - Rabat" price="0.213" priceVat="0.245" priceFormatted="21,3 cents" priceVatFormatted="24,5 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MZ</cc>
+  <name>Mozambique</name>
+  <prices>
+   <cost description="Mozambique" price="0.145" priceVat="0.167" priceFormatted="14,5 cents" priceVatFormatted="16,7 cents" destinationType="2"/>
+   <cost description="Mozambique - Mobile" price="0.310" priceVat="0.357" priceFormatted="31 cents" priceVatFormatted="35,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MM</cc>
+  <name>Myanmar</name>
+  <prices>
+   <cost description="Myanmar" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NA</cc>
+  <name>Namibia</name>
+  <prices>
+   <cost description="Namibia" price="0.172" priceVat="0.198" priceFormatted="17,2 cents" priceVatFormatted="19,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NR</cc>
+  <name>Nauru</name>
+  <prices>
+   <cost description="Nauru" price="0.810" priceVat="0.932" priceFormatted="81 cents" priceVatFormatted="93,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NP</cc>
+  <name>Nepal</name>
+  <prices>
+   <cost description="Nepal" price="0.285" priceVat="0.328" priceFormatted="28,5 cents" priceVatFormatted="32,8 cents" destinationType="1"/>
+   <cost description="Nepal - Kathmandu" price="0.275" priceVat="0.316" priceFormatted="27,5 cents" priceVatFormatted="31,6 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NL</cc>
+  <name>Netherlands</name>
+  <prices>
+   <cost description="Netherlands" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Netherlands - Mobile" price="0.222" priceVat="0.255" priceFormatted="22,2 cents" priceVatFormatted="25,5 cents" destinationType="3"/>
+   <cost description="Netherlands - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AN</cc>
+  <name>Netherlands Antilles</name>
+  <prices>
+   <cost description="Netherlands Antilles" price="0.165" priceVat="0.190" priceFormatted="16,5 cents" priceVatFormatted="19 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NC</cc>
+  <name>New Caledonia</name>
+  <prices>
+   <cost description="New Caledonia" price="0.298" priceVat="0.343" priceFormatted="29,8 cents" priceVatFormatted="34,3 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NZ</cc>
+  <name>New Zealand</name>
+  <prices>
+   <cost description="New Zealand" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="New Zealand - Mobile" price="0.260" priceVat="0.299" priceFormatted="26 cents" priceVatFormatted="29,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NI</cc>
+  <name>Nicaragua</name>
+  <prices>
+   <cost description="Nicaragua" price="0.192" priceVat="0.221" priceFormatted="19,2 cents" priceVatFormatted="22,1 cents" destinationType="2"/>
+   <cost description="Nicaragua - Mobile" price="0.203" priceVat="0.233" priceFormatted="20,3 cents" priceVatFormatted="23,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NE</cc>
+  <name>Niger</name>
+  <prices>
+   <cost description="Niger" price="0.180" priceVat="0.207" priceFormatted="18 cents" priceVatFormatted="20,7 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NG</cc>
+  <name>Nigeria</name>
+  <prices>
+   <cost description="Nigeria" price="0.130" priceVat="0.150" priceFormatted="13 cents" priceVatFormatted="15 cents" destinationType="2"/>
+   <cost description="Nigeria - Lagos" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="2"/>
+   <cost description="Nigeria - Mobile - ECONET" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="3"/>
+   <cost description="Nigeria - Mobile - Globacom" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="3"/>
+   <cost description="Nigeria - Mobile - MTN" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="3"/>
+   <cost description="Nigeria - Mobile - Others" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NU</cc>
+  <name>Niue</name>
+  <prices>
+   <cost description="Niue" price="0.900" priceVat="1.035" priceFormatted="90 cents" priceVatFormatted="€1,04" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>MP</cc>
+  <name>Northern Mariana Islands</name>
+  <prices>
+   <cost description="Northern Mariana Islands" price="0.036" priceVat="0.041" priceFormatted="3,6 cents" priceVatFormatted="4,1 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>NO</cc>
+  <name>Norway</name>
+  <prices>
+   <cost description="Norway" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Norway - Mobile" price="0.178" priceVat="0.205" priceFormatted="17,8 cents" priceVatFormatted="20,5 cents" destinationType="3"/>
+   <cost description="Norway - Shared Cost" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>OM</cc>
+  <name>Oman</name>
+  <prices>
+   <cost description="Oman" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Oman - Mobile" price="0.252" priceVat="0.290" priceFormatted="25,2 cents" priceVatFormatted="29 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PK</cc>
+  <name>Pakistan</name>
+  <prices>
+   <cost description="Pakistan" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Pakistan - Islamabad" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Pakistan - Karachi" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Pakistan - Lahore" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="2"/>
+   <cost description="Pakistan - Mobile" price="0.102" priceVat="0.117" priceFormatted="10,2 cents" priceVatFormatted="11,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PW</cc>
+  <name>Palau</name>
+  <prices>
+   <cost description="Palau" price="0.350" priceVat="0.403" priceFormatted="35 cents" priceVatFormatted="40,3 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PS</cc>
+  <name>Palestinian Territory</name>
+  <prices>
+   <cost description="Palestinian Territory" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PA</cc>
+  <name>Panama</name>
+  <prices>
+   <cost description="Panama" price="0.090" priceVat="0.104" priceFormatted="9 cents" priceVatFormatted="10,4 cents" destinationType="2"/>
+   <cost description="Panama - Mobile" price="0.162" priceVat="0.186" priceFormatted="16,2 cents" priceVatFormatted="18,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PG</cc>
+  <name>Papua New Guinea</name>
+  <prices>
+   <cost description="Papua New Guinea" price="0.670" priceVat="0.771" priceFormatted="67 cents" priceVatFormatted="77,10 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PY</cc>
+  <name>Paraguay</name>
+  <prices>
+   <cost description="Paraguay" price="0.124" priceVat="0.143" priceFormatted="12,4 cents" priceVatFormatted="14,3 cents" destinationType="2"/>
+   <cost description="Paraguay - Asuncion" price="0.101" priceVat="0.116" priceFormatted="10,1 cents" priceVatFormatted="11,6 cents" destinationType="2"/>
+   <cost description="Paraguay - Mobile" price="0.189" priceVat="0.217" priceFormatted="18,9 cents" priceVatFormatted="21,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PE</cc>
+  <name>Peru</name>
+  <prices>
+   <cost description="Peru" price="0.068" priceVat="0.078" priceFormatted="6,8 cents" priceVatFormatted="7,8 cents" destinationType="2"/>
+   <cost description="Peru - Lima" price="0.025" priceVat="0.029" priceFormatted="2,5 cents" priceVatFormatted="2,9 cents" destinationType="2"/>
+   <cost description="Peru - Mobile" price="0.255" priceVat="0.293" priceFormatted="25,5 cents" priceVatFormatted="29,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PH</cc>
+  <name>Philippines</name>
+  <prices>
+   <cost description="Philippines" price="0.161" priceVat="0.185" priceFormatted="16,1 cents" priceVatFormatted="18,5 cents" destinationType="2"/>
+   <cost description="Philippines - Cebu" price="0.161" priceVat="0.185" priceFormatted="16,1 cents" priceVatFormatted="18,5 cents" destinationType="2"/>
+   <cost description="Philippines - Manila" price="0.161" priceVat="0.185" priceFormatted="16,1 cents" priceVatFormatted="18,5 cents" destinationType="2"/>
+   <cost description="Philippines - Mobile" price="0.202" priceVat="0.232" priceFormatted="20,2 cents" priceVatFormatted="23,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PL</cc>
+  <name>Poland</name>
+  <prices>
+   <cost description="Poland" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Poland - Gdansk" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Poland - Mobile" price="0.208" priceVat="0.239" priceFormatted="20,8 cents" priceVatFormatted="23,9 cents" destinationType="3"/>
+   <cost description="Poland - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+   <cost description="Poland - Warsaw" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PT</cc>
+  <name>Portugal</name>
+  <prices>
+   <cost description="Portugal" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Portugal - Mobile" price="0.249" priceVat="0.286" priceFormatted="24,9 cents" priceVatFormatted="28,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PR</cc>
+  <name>Puerto Rico</name>
+  <prices>
+   <cost description="Puerto Rico" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>QA</cc>
+  <name>Qatar</name>
+  <prices>
+   <cost description="Qatar" price="0.315" priceVat="0.362" priceFormatted="31,5 cents" priceVatFormatted="36,2 cents" destinationType="2"/>
+   <cost description="Qatar - Mobile" price="0.315" priceVat="0.362" priceFormatted="31,5 cents" priceVatFormatted="36,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>RE</cc>
+  <name>Reunion</name>
+  <prices>
+   <cost description="Reunion" price="0.131" priceVat="0.151" priceFormatted="13,1 cents" priceVatFormatted="15,1 cents" destinationType="2"/>
+   <cost description="Reunion - Mobile" price="0.260" priceVat="0.299" priceFormatted="26 cents" priceVatFormatted="29,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>RO</cc>
+  <name>Romania</name>
+  <prices>
+   <cost description="Romania" price="0.105" priceVat="0.121" priceFormatted="10,5 cents" priceVatFormatted="12,1 cents" destinationType="2"/>
+   <cost description="Romania - Bucharest" price="0.082" priceVat="0.094" priceFormatted="8,2 cents" priceVatFormatted="9,4 cents" destinationType="2"/>
+   <cost description="Romania - Mobile" price="0.245" priceVat="0.282" priceFormatted="24,5 cents" priceVatFormatted="28,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>RU</cc>
+  <name>Russia</name>
+  <prices>
+   <cost description="Russia" price="0.043" priceVat="0.049" priceFormatted="4,3 cents" priceVatFormatted="4,9 cents" destinationType="2"/>
+   <cost description="Russia - Mobile" price="0.069" priceVat="0.079" priceFormatted="6,9 cents" priceVatFormatted="7,9 cents" destinationType="3"/>
+   <cost description="Russia - Moscow" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Russia - St Petersburg" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>RW</cc>
+  <name>Rwanda</name>
+  <prices>
+   <cost description="Rwanda" price="0.165" priceVat="0.190" priceFormatted="16,5 cents" priceVatFormatted="19 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SH</cc>
+  <name>Saint Helena</name>
+  <prices>
+   <cost description="Saint Helena" price="1.600" priceVat="1.840" priceFormatted="€1,60" priceVatFormatted="€1,84" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>KN</cc>
+  <name>Saint Kitts and Nevis</name>
+  <prices>
+   <cost description="Saint Kitts and Nevis" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LC</cc>
+  <name>Saint Lucia</name>
+  <prices>
+   <cost description="Saint Lucia" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>PM</cc>
+  <name>Saint Pierre and Miquelon</name>
+  <prices>
+   <cost description="Saint Pierre and Miquelon" price="0.380" priceVat="0.437" priceFormatted="38 cents" priceVatFormatted="43,7 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VC</cc>
+  <name>Saint Vincent and the Grenadines</name>
+  <prices>
+   <cost description="Saint Vincent and the Grenadines" price="0.210" priceVat="0.242" priceFormatted="21 cents" priceVatFormatted="24,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>WS</cc>
+  <name>Samoa</name>
+  <prices>
+   <cost description="Samoa" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SM</cc>
+  <name>San Marino</name>
+  <prices>
+   <cost description="San Marino" price="0.033" priceVat="0.038" priceFormatted="3,3 cents" priceVatFormatted="3,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ST</cc>
+  <name>Sao Tome and Principe</name>
+  <prices>
+   <cost description="Sao Tome and Principe" price="1.000" priceVat="1.150" priceFormatted="€1,00" priceVatFormatted="€1,15" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SA</cc>
+  <name>Saudi Arabia</name>
+  <prices>
+   <cost description="Saudi Arabia" price="0.204" priceVat="0.235" priceFormatted="20,4 cents" priceVatFormatted="23,5 cents" destinationType="2"/>
+   <cost description="Saudi Arabia - Jeddah" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Saudi Arabia - Makkah" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Saudi Arabia - Mobile" price="0.218" priceVat="0.251" priceFormatted="21,8 cents" priceVatFormatted="25,1 cents" destinationType="3"/>
+   <cost description="Saudi Arabia - Riyadh" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SN</cc>
+  <name>Senegal</name>
+  <prices>
+   <cost description="Senegal" price="0.312" priceVat="0.359" priceFormatted="31,2 cents" priceVatFormatted="35,9 cents" destinationType="2"/>
+   <cost description="Senegal - Mobile" price="0.312" priceVat="0.359" priceFormatted="31,2 cents" priceVatFormatted="35,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>RS</cc>
+  <name>Serbia</name>
+  <prices>
+   <cost description="Serbia" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="2"/>
+   <cost description="Serbia - Belgrade" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="2"/>
+   <cost description="Serbia - Mobile" price="0.248" priceVat="0.285" priceFormatted="24,8 cents" priceVatFormatted="28,5 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SC</cc>
+  <name>Seychelles</name>
+  <prices>
+   <cost description="Seychelles" price="0.260" priceVat="0.299" priceFormatted="26 cents" priceVatFormatted="29,9 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SL</cc>
+  <name>Sierra Leone</name>
+  <prices>
+   <cost description="Sierra Leone" price="0.350" priceVat="0.403" priceFormatted="35 cents" priceVatFormatted="40,3 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SG</cc>
+  <name>Singapore</name>
+  <prices>
+   <cost description="Singapore" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Singapore - Mobile" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SX</cc>
+  <name>Sint Maarten</name>
+  <prices>
+   <cost description="Sint Maarten" price="0.165" priceVat="0.190" priceFormatted="16,5 cents" priceVatFormatted="19 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SK</cc>
+  <name>Slovakia</name>
+  <prices>
+   <cost description="Slovakia" price="0.055" priceVat="0.063" priceFormatted="5,5 cents" priceVatFormatted="6,3 cents" destinationType="2"/>
+   <cost description="Slovakia - Mobile" price="0.180" priceVat="0.207" priceFormatted="18 cents" priceVatFormatted="20,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SI</cc>
+  <name>Slovenia</name>
+  <prices>
+   <cost description="Slovenia" price="0.055" priceVat="0.063" priceFormatted="5,5 cents" priceVatFormatted="6,3 cents" destinationType="2"/>
+   <cost description="Slovenia - Mobile" price="0.242" priceVat="0.278" priceFormatted="24,2 cents" priceVatFormatted="27,8 cents" destinationType="3"/>
+   <cost description="Slovenia - Mobile Kosvo" price="0.400" priceVat="0.460" priceFormatted="40 cents" priceVatFormatted="46 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SB</cc>
+  <name>Solomon Islands</name>
+  <prices>
+   <cost description="Solomon Islands" price="0.950" priceVat="1.093" priceFormatted="95 cents" priceVatFormatted="€1,09" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SO</cc>
+  <name>Somalia</name>
+  <prices>
+   <cost description="Somalia" price="0.580" priceVat="0.667" priceFormatted="58,00 cents" priceVatFormatted="66,7 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ZA</cc>
+  <name>South Africa</name>
+  <prices>
+   <cost description="South Africa" price="0.058" priceVat="0.067" priceFormatted="5,8 cents" priceVatFormatted="6,7 cents" destinationType="2"/>
+   <cost description="South Africa - Cape Town" price="0.058" priceVat="0.067" priceFormatted="5,8 cents" priceVatFormatted="6,7 cents" destinationType="2"/>
+   <cost description="South Africa - Johannesburg" price="0.058" priceVat="0.067" priceFormatted="5,8 cents" priceVatFormatted="6,7 cents" destinationType="2"/>
+   <cost description="South Africa - Mobile" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+   <cost description="South Africa - Special Services" price="0.287" priceVat="0.330" priceFormatted="28,7 cents" priceVatFormatted="33 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SS</cc>
+  <name>South Sudan</name>
+  <prices>
+   <cost description="South Sudan" price="0.216" priceVat="0.248" priceFormatted="21,6 cents" priceVatFormatted="24,8 cents" destinationType="2"/>
+   <cost description="South Sudan - Mobile" price="0.216" priceVat="0.248" priceFormatted="21,6 cents" priceVatFormatted="24,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ES</cc>
+  <name>Spain</name>
+  <prices>
+   <cost description="Spain" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Spain - Barcelona" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Spain - Freephone" price="0.030" priceVat="0.035" priceFormatted="3 cents" priceVatFormatted="3,5 cents" destinationType="4"/>
+   <cost description="Spain - Madrid" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Spain - Mobile" price="0.220" priceVat="0.253" priceFormatted="22 cents" priceVatFormatted="25,3 cents" destinationType="3"/>
+   <cost description="Spain - Mobile - Orange" price="0.220" priceVat="0.253" priceFormatted="22 cents" priceVatFormatted="25,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>LK</cc>
+  <name>Sri Lanka</name>
+  <prices>
+   <cost description="Sri Lanka" price="0.121" priceVat="0.139" priceFormatted="12,1 cents" priceVatFormatted="13,9 cents" destinationType="2"/>
+   <cost description="Sri Lanka - Mobile" price="0.130" priceVat="0.150" priceFormatted="13 cents" priceVatFormatted="15 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SD</cc>
+  <name>Sudan</name>
+  <prices>
+   <cost description="Sudan" price="0.215" priceVat="0.247" priceFormatted="21,5 cents" priceVatFormatted="24,7 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SR</cc>
+  <name>Suriname</name>
+  <prices>
+   <cost description="Suriname" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="2"/>
+   <cost description="Suriname - Mobile" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SZ</cc>
+  <name>Swaziland</name>
+  <prices>
+   <cost description="Swaziland" price="0.162" priceVat="0.186" priceFormatted="16,2 cents" priceVatFormatted="18,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SE</cc>
+  <name>Sweden</name>
+  <prices>
+   <cost description="Sweden" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Sweden - Mobile" price="0.238" priceVat="0.274" priceFormatted="23,8 cents" priceVatFormatted="27,4 cents" destinationType="3"/>
+   <cost description="Sweden - Mobile - Telia" price="0.238" priceVat="0.274" priceFormatted="23,8 cents" priceVatFormatted="27,4 cents" destinationType="3"/>
+   <cost description="Sweden - Shared Cost" price="0.031" priceVat="0.036" priceFormatted="3,1 cents" priceVatFormatted="3,6 cents" destinationType="4"/>
+   <cost description="Sweden - Stockholm" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>CH</cc>
+  <name>Switzerland</name>
+  <prices>
+   <cost description="Switzerland" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Switzerland - Freephone" price="0.021" priceVat="0.024" priceFormatted="2,1 cents" priceVatFormatted="2,4 cents" destinationType="4"/>
+   <cost description="Switzerland - Mobile" price="0.309" priceVat="0.355" priceFormatted="30,9 cents" priceVatFormatted="35,5 cents" destinationType="3"/>
+   <cost description="Switzerland - Shared Cost" price="0.025" priceVat="0.029" priceFormatted="2,5 cents" priceVatFormatted="2,9 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>SY</cc>
+  <name>Syria</name>
+  <prices>
+   <cost description="Syria" price="0.320" priceVat="0.368" priceFormatted="32 cents" priceVatFormatted="36,8 cents" destinationType="2"/>
+   <cost description="Syria - Mobile" price="0.320" priceVat="0.368" priceFormatted="32 cents" priceVatFormatted="36,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TW</cc>
+  <name>Taiwan</name>
+  <prices>
+   <cost description="Taiwan" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Taiwan - Mobile" price="0.082" priceVat="0.094" priceFormatted="8,2 cents" priceVatFormatted="9,4 cents" destinationType="3"/>
+   <cost description="Taiwan - Taipei" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="Taiwan - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TJ</cc>
+  <name>Tajikistan</name>
+  <prices>
+   <cost description="Tajikistan" price="0.156" priceVat="0.179" priceFormatted="15,6 cents" priceVatFormatted="17,9 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TZ</cc>
+  <name>Tanzania</name>
+  <prices>
+   <cost description="Tanzania" price="0.260" priceVat="0.299" priceFormatted="26 cents" priceVatFormatted="29,9 cents" destinationType="2"/>
+   <cost description="Tanzania - Dar es Salaam" price="0.215" priceVat="0.247" priceFormatted="21,5 cents" priceVatFormatted="24,7 cents" destinationType="2"/>
+   <cost description="Tanzania - Mobile" price="0.250" priceVat="0.288" priceFormatted="25 cents" priceVatFormatted="28,8 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TH</cc>
+  <name>Thailand</name>
+  <prices>
+   <cost description="Thailand" price="0.095" priceVat="0.109" priceFormatted="9,5 cents" priceVatFormatted="10,9 cents" destinationType="2"/>
+   <cost description="Thailand - Bangkok" price="0.052" priceVat="0.060" priceFormatted="5,2 cents" priceVatFormatted="6 cents" destinationType="2"/>
+   <cost description="Thailand - Mobile" price="0.095" priceVat="0.109" priceFormatted="9,5 cents" priceVatFormatted="10,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TL</cc>
+  <name>Timor-Leste</name>
+  <prices>
+   <cost description="Timor-Leste" price="1.170" priceVat="1.346" priceFormatted="€1,17" priceVatFormatted="€1,35" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TG</cc>
+  <name>Togo</name>
+  <prices>
+   <cost description="Togo" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="2"/>
+   <cost description="Togo - Mobile" price="0.330" priceVat="0.380" priceFormatted="33 cents" priceVatFormatted="38 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TK</cc>
+  <name>Tokelau</name>
+  <prices>
+   <cost description="Tokelau" price="0.805" priceVat="0.926" priceFormatted="80,5 cents" priceVatFormatted="92,60 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TO</cc>
+  <name>Tonga</name>
+  <prices>
+   <cost description="Tonga" price="0.350" priceVat="0.403" priceFormatted="35 cents" priceVatFormatted="40,3 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TT</cc>
+  <name>Trinidad and Tobago</name>
+  <prices>
+   <cost description="Trinidad and Tobago" price="0.121" priceVat="0.139" priceFormatted="12,1 cents" priceVatFormatted="13,9 cents" destinationType="2"/>
+   <cost description="Trinidad and Tobago - Mobile" price="0.258" priceVat="0.297" priceFormatted="25,8 cents" priceVatFormatted="29,7 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TN</cc>
+  <name>Tunisia</name>
+  <prices>
+   <cost description="Tunisia" price="0.322" priceVat="0.370" priceFormatted="32,2 cents" priceVatFormatted="37 cents" destinationType="2"/>
+   <cost description="Tunisia - Mobile" price="0.310" priceVat="0.357" priceFormatted="31 cents" priceVatFormatted="35,7 cents" destinationType="3"/>
+   <cost description="Tunisia - Tunis" price="0.322" priceVat="0.370" priceFormatted="32,2 cents" priceVatFormatted="37 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TR</cc>
+  <name>Turkey</name>
+  <prices>
+   <cost description="Turkey" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="2"/>
+   <cost description="Turkey - Ankara" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="2"/>
+   <cost description="Turkey - Antalya" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="2"/>
+   <cost description="Turkey - Cyprus North" price="0.125" priceVat="0.144" priceFormatted="12,5 cents" priceVatFormatted="14,4 cents" destinationType="2"/>
+   <cost description="Turkey - Istanbul" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="2"/>
+   <cost description="Turkey - Izmir" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="2"/>
+   <cost description="Turkey - Mobile - Others" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="3"/>
+   <cost description="Turkey - Mobile - Turkcell" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="3"/>
+   <cost description="Turkey - Mobile - Vodafone (Telsim)" price="0.139" priceVat="0.160" priceFormatted="13,9 cents" priceVatFormatted="16 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TM</cc>
+  <name>Turkmenistan</name>
+  <prices>
+   <cost description="Turkmenistan" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TC</cc>
+  <name>Turks and Caicos Islands</name>
+  <prices>
+   <cost description="Turks and Caicos Islands" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="2"/>
+   <cost description="Turks and Caicos Islands - Mobile" price="0.240" priceVat="0.276" priceFormatted="24 cents" priceVatFormatted="27,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>TV</cc>
+  <name>Tuvalu</name>
+  <prices>
+   <cost description="Tuvalu" price="0.700" priceVat="0.805" priceFormatted="70 cents" priceVatFormatted="80,5 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>UG</cc>
+  <name>Uganda</name>
+  <prices>
+   <cost description="Uganda" price="0.136" priceVat="0.156" priceFormatted="13,6 cents" priceVatFormatted="15,6 cents" destinationType="2"/>
+   <cost description="Uganda - Mobile" price="0.136" priceVat="0.156" priceFormatted="13,6 cents" priceVatFormatted="15,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>UA</cc>
+  <name>Ukraine</name>
+  <prices>
+   <cost description="Ukraine" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="2"/>
+   <cost description="Ukraine - Kiev" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="2"/>
+   <cost description="Ukraine - Lviv" price="0.115" priceVat="0.132" priceFormatted="11,5 cents" priceVatFormatted="13,2 cents" destinationType="2"/>
+   <cost description="Ukraine - Mobile" price="0.159" priceVat="0.183" priceFormatted="15,9 cents" priceVatFormatted="18,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>AE</cc>
+  <name>United Arab Emirates</name>
+  <prices>
+   <cost description="United Arab Emirates" price="0.223" priceVat="0.256" priceFormatted="22,3 cents" priceVatFormatted="25,6 cents" destinationType="2"/>
+   <cost description="United Arab Emirates - Dubai" price="0.223" priceVat="0.256" priceFormatted="22,3 cents" priceVatFormatted="25,6 cents" destinationType="2"/>
+   <cost description="United Arab Emirates - Mobile" price="0.223" priceVat="0.256" priceFormatted="22,3 cents" priceVatFormatted="25,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>GB</cc>
+  <name>United Kingdom</name>
+  <prices>
+   <cost description="United Kingdom" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="United Kingdom - London" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="2"/>
+   <cost description="United Kingdom - Mobile - Hutchison3G" price="0.209" priceVat="0.240" priceFormatted="20,9 cents" priceVatFormatted="24 cents" destinationType="3"/>
+   <cost description="United Kingdom - Mobile - O2" price="0.209" priceVat="0.240" priceFormatted="20,9 cents" priceVatFormatted="24 cents" destinationType="3"/>
+   <cost description="United Kingdom - Mobile - Orange" price="0.209" priceVat="0.240" priceFormatted="20,9 cents" priceVatFormatted="24 cents" destinationType="3"/>
+   <cost description="United Kingdom - Mobile - Others" price="0.209" priceVat="0.240" priceFormatted="20,9 cents" priceVatFormatted="24 cents" destinationType="3"/>
+   <cost description="United Kingdom - Mobile - T-Mobile" price="0.209" priceVat="0.240" priceFormatted="20,9 cents" priceVatFormatted="24 cents" destinationType="3"/>
+   <cost description="United Kingdom - Mobile - Vodafone" price="0.209" priceVat="0.240" priceFormatted="20,9 cents" priceVatFormatted="24 cents" destinationType="3"/>
+   <cost description="United Kingdom - Premium Rate - Band 1" price="0.300" priceVat="0.345" priceFormatted="30 cents" priceVatFormatted="34,5 cents" destinationType="4"/>
+   <cost description="United Kingdom - Premium Rate - Band 2" price="0.580" priceVat="0.667" priceFormatted="58,00 cents" priceVatFormatted="66,7 cents" destinationType="4"/>
+   <cost description="United Kingdom - Premium Rate - Band 3" price="0.850" priceVat="0.978" priceFormatted="85 cents" priceVatFormatted="97,8 cents" destinationType="4"/>
+   <cost description="United Kingdom - Premium Rate - Band 4" price="1.450" priceVat="1.668" priceFormatted="€1,45" priceVatFormatted="€1,67" destinationType="4"/>
+   <cost description="United Kingdom - Premium Rate - Band 5" price="1.750" priceVat="2.013" priceFormatted="€1,75" priceVatFormatted="€2,01" destinationType="4"/>
+   <cost description="United Kingdom - Shared Cost - 0844" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="4"/>
+   <cost description="United Kingdom - Shared Cost - 0845" price="0.110" priceVat="0.127" priceFormatted="11 cents" priceVatFormatted="12,7 cents" destinationType="4"/>
+   <cost description="United Kingdom - Shared Cost - 0870" price="0.155" priceVat="0.178" priceFormatted="15,5 cents" priceVatFormatted="17,8 cents" destinationType="4"/>
+   <cost description="United Kingdom - Shared Cost - 0871" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="4"/>
+   <cost description="United Kingdom - Shared Cost-0843" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="4"/>
+   <cost description="United Kingdom - Shared Cost-0872" price="0.190" priceVat="0.219" priceFormatted="19 cents" priceVatFormatted="21,9 cents" destinationType="4"/>
+   <cost description="United Kingdom - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>UN</cc>
+  <name>United Nations</name>
+  <prices>
+   <cost description="United Nations - Disaster Relief Service" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>US</cc>
+  <name>United States</name>
+  <prices>
+   <cost description="United States" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="1"/>
+   <cost description="United States - Alaska" price="0.040" priceVat="0.046" priceFormatted="4 cents" priceVatFormatted="4,6 cents" destinationType="1"/>
+   <cost description="United States - Hawaii" price="0.019" priceVat="0.022" priceFormatted="1,9 cent" priceVatFormatted="2,2 cents" destinationType="1"/>
+   <cost description="United States - Toll Free" price="0.000" priceVat="0.000" priceFormatted="0 cents" priceVatFormatted="0 cents" destinationType="4"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>UY</cc>
+  <name>Uruguay</name>
+  <prices>
+   <cost description="Uruguay" price="0.105" priceVat="0.121" priceFormatted="10,5 cents" priceVatFormatted="12,1 cents" destinationType="2"/>
+   <cost description="Uruguay - Mobile" price="0.215" priceVat="0.247" priceFormatted="21,5 cents" priceVatFormatted="24,7 cents" destinationType="3"/>
+   <cost description="Uruguay - Montevideo" price="0.105" priceVat="0.121" priceFormatted="10,5 cents" priceVatFormatted="12,1 cents" destinationType="2"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>UZ</cc>
+  <name>Uzbekistan</name>
+  <prices>
+   <cost description="Uzbekistan" price="0.109" priceVat="0.125" priceFormatted="10,9 cents" priceVatFormatted="12,5 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VU</cc>
+  <name>Vanuatu</name>
+  <prices>
+   <cost description="Vanuatu" price="0.670" priceVat="0.771" priceFormatted="67 cents" priceVatFormatted="77,10 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VA</cc>
+  <name>Vatican City State (Holy See)</name>
+  <prices>
+   <cost description="Vatican City State (Holy See)" price="0.028" priceVat="0.032" priceFormatted="2,8 cents" priceVatFormatted="3,2 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VE</cc>
+  <name>Venezuela</name>
+  <prices>
+   <cost description="Venezuela" price="0.045" priceVat="0.052" priceFormatted="4,5 cents" priceVatFormatted="5,2 cents" destinationType="2"/>
+   <cost description="Venezuela - Caracas" price="0.026" priceVat="0.030" priceFormatted="2,6 cents" priceVatFormatted="3 cents" destinationType="2"/>
+   <cost description="Venezuela - Mobile" price="0.168" priceVat="0.193" priceFormatted="16,8 cents" priceVatFormatted="19,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VN</cc>
+  <name>Vietnam</name>
+  <prices>
+   <cost description="Vietnam" price="0.275" priceVat="0.316" priceFormatted="27,5 cents" priceVatFormatted="31,6 cents" destinationType="2"/>
+   <cost description="Vietnam - Mobile" price="0.275" priceVat="0.316" priceFormatted="27,5 cents" priceVatFormatted="31,6 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VG</cc>
+  <name>Virgin Islands, British</name>
+  <prices>
+   <cost description="Virgin Islands, British" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="2"/>
+   <cost description="Virgin Islands, British - Mobile" price="0.185" priceVat="0.213" priceFormatted="18,5 cents" priceVatFormatted="21,3 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>VI</cc>
+  <name>Virgin Islands, US</name>
+  <prices>
+   <cost description="Virgin Islands, US" price="0.050" priceVat="0.058" priceFormatted="5 cents" priceVatFormatted="5,8 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>WF</cc>
+  <name>Wallis and Futuna</name>
+  <prices>
+   <cost description="Wallis and Futuna" price="0.890" priceVat="1.024" priceFormatted="89 cents" priceVatFormatted="€1,02" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>YE</cc>
+  <name>Yemen</name>
+  <prices>
+   <cost description="Yemen" price="0.170" priceVat="0.196" priceFormatted="17 cents" priceVatFormatted="19,6 cents" destinationType="1"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ZM</cc>
+  <name>Zambia</name>
+  <prices>
+   <cost description="Zambia" price="0.100" priceVat="0.115" priceFormatted="10 cents" priceVatFormatted="11,5 cents" destinationType="2"/>
+   <cost description="Zambia - Mobile" price="0.195" priceVat="0.224" priceFormatted="19,5 cents" priceVatFormatted="22,4 cents" destinationType="3"/>
+  </prices>
+ </destination>
+ <destination>
+  <cc>ZW</cc>
+  <name>Zimbabwe</name>
+  <prices>
+   <cost description="Zimbabwe" price="0.165" priceVat="0.190" priceFormatted="16,5 cents" priceVatFormatted="19 cents" destinationType="2"/>
+   <cost description="Zimbabwe - Mobile" price="0.399" priceVat="0.459" priceFormatted="39,90 cents" priceVatFormatted="45,9 cents" destinationType="3"/>
+  </prices>
+ </destination>
+</data>
